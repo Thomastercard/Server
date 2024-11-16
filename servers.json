@@ -50,4 +50,8 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
+},
+{
+    "name": "[Thomastercard]",
+    "address": "[https://anisette-v3-server-4mzc.onrender.com]"
 }
